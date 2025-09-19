@@ -1,28 +1,26 @@
 # Hi, I’m Umer 👋
 
-I’m a **cybersecurity specialist** and **electrical-engineering hobbyist** who loves building and experimenting with hardware projects—everything from IoT devices to custom PCBs.
+I’m a **cybersecurity specialist** and **electrical-engineering hobbyist** who loves building and experimenting with hardware projects—everything from IoT devices to Tinkering and Research.
 
 ---
 
 ### 🔧 Current Focus
 - DIY electronics and embedded systems  
 - Raspberry Pi and Arduino builds  
-- Circuit design and PCB fabrication  
+- Circuit design 
 
 ---
 
 ### 🛠️ Tech & Tools
-`Arduino` · `Raspberry Pi` · `Python` · `KiCad` · `ESP32` · `Linux`
+`Arduino` · `Raspberry Pi` · `Python` · `KiCad` · `ESP8266` · `Linux`
 
 ---
 
 ### 🗂 Featured Projects
-| Project | Description | Repo |
-|--------|------------|------|
-| Smart Light Controller | Wi-Fi–enabled light automation with ESP32 | [smart-light-controller](https://github.com/your-username/smart-light-controller) |
-| Mini PCB Oscilloscope | Compact oscilloscope built from scratch | [pcb-oscilloscope](https://github.com/your-username/pcb-oscilloscope) |
-
-*(Replace the links with your actual repositories as you upload them.)*
+| Project | Description |
+|--------|------------|
+| Smart Plant Watering Controller | ESP8266 Wi-Fi Plant Watering Controller  |
+| Router Power Backup | Compact Power Backup System for Wifi Router built from scratch | 
 
 ---
 
